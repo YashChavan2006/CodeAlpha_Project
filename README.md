@@ -79,7 +79,7 @@ Feel free to fork this repo and contribute!
 
 📄 License
 
-MIT License
+CodeAlpha
 
 ---
 
