@@ -49,6 +49,8 @@ python app.py
 📸 Screenshots
 
 <img width="1894" height="946" alt="image" src="https://github.com/user-attachments/assets/b70c243b-1830-48c2-a8e4-6d6cce9b4138" />
+<img width="1897" height="977" alt="image" src="https://github.com/user-attachments/assets/d71fe169-6679-4a4b-829d-982bf751c42e" />
+<img width="1769" height="897" alt="image" src="https://github.com/user-attachments/assets/ca4e429f-ed42-4807-b623-78c2afa0fba1" />
 
 
 ---
