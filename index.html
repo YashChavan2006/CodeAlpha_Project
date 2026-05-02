@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot Task 2</title>
+</head>
+<body>
+
+<h2>Simple Chatbot 🤖</h2>
+
+<div>
+    {% for sender, message in chats %}
+        <p><b>{{ sender }}:</b> {{ message }}</p>
+    {% endfor %}
+</div>
+
+<form action="/submit" method="POST">
+    <input type="text" name="message" placeholder="Type your message..." required>
+    <button type="submit">Send</button>
+</form>
+
+</body>
+</html>
