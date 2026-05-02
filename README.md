@@ -94,3 +94,105 @@ CodeAlpha
 
 Yash Chavan 
 GitHub: https://github.com/YashChavan2006
+
+
+
+
+
+
+
+
+🤖 FAQ Chatbot
+
+«An intelligent chatbot designed to answer frequently asked questions automatically.»
+
+---
+
+📌 Overview
+
+This project is part of the CodeAlpha Internship Program.
+The FAQ Chatbot helps users get instant answers by simulating human-like conversations.
+
+---
+
+🎯 Features
+
+- 💬 Interactive chat interface
+- 📚 Pre-trained FAQ responses
+- ⚡ Instant replies
+- 🧠 NLP-based understanding (optional)
+- 🔄 Continuous learning (future scope)
+
+---
+
+🛠️ Tech Stack
+
+- Language: Python / JavaScript
+- Libraries: NLTK / TensorFlow / Dialogflow (optional)
+- Frontend: HTML, CSS, JS (if web-based)
+
+---
+
+⚙️ Installation & Setup
+
+1. Clone the repository
+
+git clone https://github.com/YashChavan2006/faq-chatbot.git
+cd faq-chatbot
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run the chatbot
+
+python chatbot.py
+
+---
+
+📸 Screenshots
+
+<img width="1919" height="991" alt="Screenshot 2026-05-02 134312" src="https://github.com/user-attachments/assets/e7c25b6e-bf09-4c80-85cf-9eed7d00980e" />
+
+
+---
+
+💡 Use Cases
+
+- Customer support automation
+- Website help assistants
+- Educational query systems
+
+---
+
+🚀 Future Enhancements
+
+- Voice-enabled chatbot
+- AI-based contextual understanding
+- Integration with websites/apps
+
+---
+
+🤝 Contributing
+
+Pull requests are welcome!
+
+---
+
+📄 License
+
+MIT License
+
+---
+
+🙌 Acknowledgements
+
+- CodeAlpha Internship Program
+- Open-source NLP tools
+
+---
+
+📬 Contact
+
+Your Name
+GitHub: https://github.com/your-username
